@@ -1,2 +1,2 @@
-# Data-Structures
-there is some basic program on tree and graph 
+# Data-Structure
+these are some basic program on tree and graph 
